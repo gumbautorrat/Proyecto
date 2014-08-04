@@ -7,6 +7,7 @@ public class Proba {
 		int a = 0;
 		System.out.println("HOLA RAMONA");
 		int b = 22;
+		int podemos = 34;
 	}
 
 }
