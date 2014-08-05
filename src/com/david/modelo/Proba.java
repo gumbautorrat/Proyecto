@@ -6,6 +6,7 @@ public class Proba {
 		// TODO Auto-generated method stub
 		int a = 0;
 		System.out.println("MACARRONS");
+		System.out.println("PETRA");
 	}
 
 }
